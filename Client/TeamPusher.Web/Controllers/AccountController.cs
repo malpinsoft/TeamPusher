@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using TeamPusher.Web.Extensions;
 using TeamPusher.Web.Models;
 using TeamPusher.Web.Models.AccountViewModels;
 using TeamPusher.Web.Services;
